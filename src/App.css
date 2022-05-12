@@ -1,0 +1,21 @@
+.section_2_parent {
+  background-color: #212529;
+  /* height: 60vh; */
+}
+
+.number-list {
+  background-color: #212529;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  color: white;
+  font-weight: bold;
+  display: grid;
+  place-content: center;
+}
+.user-icon {
+  width: 60px;
+  height: 60px;
+  background-color: #212529;
+  border-radius: 100%;
+}
